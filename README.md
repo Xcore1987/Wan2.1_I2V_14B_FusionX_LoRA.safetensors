@@ -1,0 +1,2 @@
+# Wan2.1_I2V_14B_FusionX_LoRA.safetensors
+Wan2.1_I2V_14B_FusionX_LoRA.safetensors
